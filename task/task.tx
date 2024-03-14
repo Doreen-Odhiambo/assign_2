@@ -1,0 +1,13 @@
+# Prompt user for input:
+# The script then uses a try-except block to handle potential errors during user input.
+# It prompts the user to enter the original price and discount percentage using the input function.
+# It also checks if the discount percentage is a positive number; otherwise, it raises a ValueError.
+# python
+
+# Calculate and print the final price:
+# If the input is valid, the script calls the calculate_discount function with the entered values.
+# It then prints the final price, formatted with a precision of two decimal places.
+# python
+# Copy code
+
+This structure ensures that the code is robust, handles user input errors gracefully, and calculates the final price based on the specified discount conditions.
